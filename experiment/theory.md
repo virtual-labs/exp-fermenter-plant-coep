@@ -7,9 +7,9 @@ The screen of the display is virtually divided in four parts
 **Message area**, used for displaying the messages, alarms, faults and functional errors of the plant. **Overview area** contains the necessary information related to the status of the individual plant units to assist the operator in efficient plant monitoring.
 **Main display area** gives the detailed representation of anything from process variable to plant unit as per selection by the operator.
 **Operator's Instruction area** contains some standard and user-defined symbols plus some key words which assists the operator to view operating advices from the computer.
+#### **General Structure of Operator Display Screen**
 <center><img src="images/img1.png" title="" /></center>
 
-### **General Structure of Operator Display Screen**
 Two types of displays available in DCS are: **Standard Displays** and **User defined Displays Standard displays**: Gives graphic, symbolic and alphanumeric information structured in standardized format based on the long experience of the plant engineers and operators. The displays are Plant **Overview Display, Unit or Area Overview Display, Group Display** and **Loop Display** as per the plant hierarchy. The higher level in the hierarchy has access to significant control parameters and alarms of lower levels. \
 **Detailed Display displays** the values of relevant parameters with short-time records. \
 **User - Defined Displays**, as the name suggests, are plant specific. There is no standard library or ready to use display structures available here. \
