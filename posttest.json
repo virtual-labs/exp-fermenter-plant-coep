@@ -1,0 +1,66 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "For animation of a push button/ switch in operator interface platform in DCS --- command is used",
+      "answers": {
+        "a": "Switch",
+        "b": "Change",
+        "c": "Toggle",
+        "d": "Operate"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Faceplate are used for ----",
+      "answers": {
+        "a": "Controllers",
+        "b": "Digital I/Os",
+        "c": "Analog I/Os",
+        "d": "All these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To indicate continuous tank level change on operator's screen, the tag value must be set as",
+      "answers": {
+        "a": "Exact value",
+        "b": "Range",
+        "c": "Exact value and Range",
+        "d": "Exact value/Range"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Normally highest priority alarms are indicated with ---- colour in SCADA",
+      "answers": {
+        "a": "Red",
+        "b": "Yellow",
+        "c": "Green",
+        "d": "User selectable"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For Secondary alarms in DCS system -------- colour is preferred",
+      "answers": {
+        "a": "Red",
+        "b": "Yellow",
+        "c": "Green",
+        "d": "User selectable"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
+
